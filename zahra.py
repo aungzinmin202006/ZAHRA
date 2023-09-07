@@ -1,5 +1,4 @@
 import os,platform
-os.system('git pull')
 os.system('xdg-open https://chat.whatsapp.com/GWvXgZ6ko0CDSjRmtWMIKy')
  
 trt=platform.architecture()[0]
